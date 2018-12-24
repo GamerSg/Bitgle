@@ -32,8 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/BlockFile.h" />
 		<Unit filename="src/BlockFile.cpp" />
+		<Unit filename="src/BlockFile.h" />
 		<Unit filename="src/main.cpp" />
 		<Extensions>
 			<envvars />
